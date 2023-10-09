@@ -2,11 +2,10 @@ title: Erik Nel # your name (or website title) here
 logo: "images/profile.png?raw=trueheight=50width=30" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   BSc Data Science
-  I am a Data Scientist with strong experience in Data visualization, Machine Learning, NLP, Computer Vision and Time Series Analysis. I am proficient in Python and SQL as well as Data Analysis tools such as Tableau, Pandas, Matplotlib, Seaborn and Dash. 
+  <br>
+  I am a Data Scientist with strong experience in Data visualization, Machine Learning, NLP, Computer Vision and Time Series Analysis. 
   <br>
   <a href="https://www.linkedin.com/in/erik-nel-597758210/">View My LinkedIn Profile</a>
-  <br>
-  <a href="https://github.com/Erik-02">View My GitHub Profile</a>
   <br>
   E-mail: eriknel95@gmail.com
   
