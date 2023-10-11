@@ -7,7 +7,7 @@
 [NYC Uber predictions](https://github.com/Erik-02/TSA-NYC-Uber)
 This dataset contained all of the Uber pickups in NYC during 2014 and 2015. The data includes the pickup location and the time of the pickup.
 With this information I was able to produce visual heatmaps showing the locations of the pickups and patterns for each hour of the day.
-I was also able to predict the number of pickups for each location during any hour of the day with an accuracy of up to 95% which allowed the bussines to allocate drivers much more effectively and thus save money.
+I was also able to predict the number of pickups for each location during any hour of the day with an accuracy of up to 95% which allowed the business to allocate drivers much more effectively and thus save money.
 <br>
 <img src="images/FBprophet predictions.png?raw=true"/>
 
