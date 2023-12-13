@@ -6,6 +6,8 @@
 [Bike shares](https://github.com/Erik-02/Bike-shares)
 This project is a time series forecasting project using the London bike sharing dataset. The data contains the number of bikes shared for each hour from 2015-2017. 
 This project is a complete forecasting repertoire including Baseline, Statistical, Machine learning and Deep learning forecasts. The forecasts are very accurate, allowing the business to have insights into the total demand required. This increases business profit since they can accurately have the total number of products available. This project includes Data analysis and visualization in an interactive manner through a Streamlit app and can be accessed using the following link(https://bike-shares.streamlit.app/DL)
+<br>
+<img src="https://github.com/Erik-02/Bike-shares/blob/main/images/bike%20shares%20streamlit.png?raw=true"/>
 
 --- 
 
