@@ -3,8 +3,8 @@
 ---
 
 ### London Bike shares forecasting
-<br>
 [Bike shares](https://github.com/Erik-02/Bike-shares)
+<br>
 This project is a time series forecasting project using the London bike sharing dataset. The data contains the number of bikes shared for each hour from 2015-2017. 
 This project is a complete forecasting repertoire including Baseline, Statistical, Machine learning and Deep learning forecasts. The forecasts are very accurate, allowing the business to have insights into the total demand required. This increases business profit since they can accurately have the total number of products available. This project includes Data analysis and visualization in an interactive manner through a Streamlit app and can be accessed using the following [link](https://bike-shares.streamlit.app/DL)
 <br>
@@ -13,8 +13,8 @@ This project is a complete forecasting repertoire including Baseline, Statistica
 --- 
 
 ### Time Series Analysis & Prediction 
-<br>
 [NYC Uber predictions](https://github.com/Erik-02/TSA-NYC-Uber)
+<br>
 This dataset contained all of the Uber pickups in NYC during 2014 and 2015. The data includes the pickup location and the time of the pickup.
 With this information I was able to produce visual heatmaps showing the locations of the pickups and patterns for each hour of the day.
 I was also able to predict the number of pickups for each location during any hour of the day with an accuracy of up to 95% which allowed the business to allocate drivers much more effectively and thus save money.
